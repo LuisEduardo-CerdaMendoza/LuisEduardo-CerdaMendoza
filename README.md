@@ -4,7 +4,7 @@
           <br />
           <br />
           <div className="social-links" style={{ display: 'flex', justifyContent: 'center', gap: '10px' }}>
-            <p>_________________ Mis Redes __________________ </p>
+            <p>_______________|| Mis Redes ||________________ </p>
           </div>
           <br />
           <div className="social-links" style={{ display: 'flex', justifyContent: 'center', gap: '10px' }}>
@@ -20,31 +20,42 @@
           </div>
         </div>
       </div>
-      |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+      |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+      -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
       <div className="main-content">
-        <h2>👨 <br />Información sobre mí:</h2>
+        <h2>Sobre mí:</h2>
         <br />
         <p>
-          Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec.
+          Me presento soy un estudiante de la carrera de ingenieria en sistemas computacionales en el Tecnologico de Estudios Superiores de Jilotepec (TESJI)
           <br />
           <br />
-          <p >💻 Además, cuento con una sólida formación técnica como Técnico en Programación, obtenido en el Colegio de Estudios Científicos y Tecnológicos del Estado de México.</p>
+          <p >💿 Soy un titulado en Tecnico en Programacion en el Colegio de Estudios Cientificos y Tecnologicos de Jilotepec (Cecytem)</p>
           <br />
-          <p >🖥️ Mi verdadera pasión radica en el desarrollo Front-end, donde canalizo mi creatividad y habilidades técnicas para crear experiencias de usuario excepcionales. Poseo habilidades destacadas en la administración de bases de datos y me considero un auténtico Gurú de Redes, capaz de optimizar y asegurar una conectividad eficiente.</p>
+          <p >📔 Me apasiona la programacion Front-End y Back-End ya que es donde puedo canalizar mi creatividad para dar al usuario una ciertas experiencias nuevas
+            en los progrmas que creo, al igual que me apasiona la programacion tambien manejo la parte de redes para tener una conectividad eficiente, tengo habilidades para
+            administrar bases de datos.
+          </p>
           <br />
-          <p >👫 Como creyente ferviente en la colaboración y el aprendizaje continuo, encuentro en el trabajo en equipo una fuente constante de inspiración. Disfruto compartiendo mis conocimientos y absorbiendo la experiencia de mis compañeros, ya que creo firmemente que el intercambio de ideas es fundamental para el crecimiento profesional.</p>
+          <p >👨🏼‍🧑🏼‍🧒🏼‍👦🏼 Soy una persona colaborativa la cual le gusta admintir y compartir conocimientos nuevos al igual que ideas para el desarrollo y la resolucion de problemas
+            en diversas aplicaciones para adquirir nuevas experiencias y crecimiento personal y profesional.
+          </p>
           <br />
-          <p >🎧 Siempre estoy en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico. Considero que cada proyecto es una oportunidad para aprender y mejorar, y estoy listo para enfrentar cualquier reto que impulse mi desarrollo como profesional.</p>
+          <p >🖥️ Me encuentro constantemente en la busqueda de nuevos conocimientos al igual que busco la manera para adaptarme a las nuevas tecnologias que se van creando 
+            con el paso del tiempo, busco desafios que me ayuden a expandir mis habilidades en la programacion al igual que mis conocimientos, cada proyecto nuevo es una oportunidad
+            de crecer, mejorar y aprender las tecnologias que lleguen a usar para cierto proposito en el mismo.
+          </p>
           <br/>
           <br />
-          Contacto: <i>luiseduardo.cerdamendoza@outlook.com</i>
+          <center> 📱 Contacto: <i>luiseduardo.cerdamendoza@outlook.com</i> </center>
         </p>
-        --------------------------------------------------------------------------------------------------------------------------------------------
-        <h2>Tecnologías conocidas:</h2>
+        |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+        -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+        <h2>Tecnologías conocidas y usadas:</h2>
         <br />
         <center>
         <div className="tech-icons">
-          <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,c,cs,cpp,java,php,dart,flask,flutter,py,dotnet,css,html,react,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,visualstudio,linux,figma,vite,docker,kotlin,powershell,kali,ubuntu,django,arduino,npm,tailwind,raspberrypi,ps&perline=12" alt="Tech Stack Icons" />
+          <img src="https://skillicons.dev/icons?i=androidstudio,windows,angular,aws,bootstrap,c,cs,cpp,java,php,dart,flask,flutter,py,css,html,react,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,visualstudio,linux,figma,vite,docker,kotlin,powershell,kali,ubuntu,django,arduino,npm,tailwind,raspberrypi,ps&perline=12" alt="Tech Stack Icons" />
         </div>
         </center>
         <br/>
+      </div>
