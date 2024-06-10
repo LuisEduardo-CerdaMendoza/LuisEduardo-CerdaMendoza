@@ -28,7 +28,6 @@
         <p>
           Me presento soy un estudiante de la carrera de ingenieria en sistemas computacionales en el Tecnologico de Estudios Superiores de Jilotepec (TESJI)
           <br />
-          <br />
           <p >💿 Soy un titulado en Tecnico en Programacion en el Colegio de Estudios Cientificos y Tecnologicos de Jilotepec (Cecytem)</p>
           <br />
           <p >📔 Me apasiona la programacion Front-End y Back-End ya que es donde puedo canalizar mi creatividad para dar al usuario una ciertas experiencias nuevas
@@ -44,7 +43,6 @@
             con el paso del tiempo, busco desafios que me ayuden a expandir mis habilidades en la programacion al igual que mis conocimientos, cada proyecto nuevo es una oportunidad
             de crecer, mejorar y aprender las tecnologias que lleguen a usar para cierto proposito en el mismo.
           </p>
-          <br/>
           <br />
           <center> 📱 Contacto: <i>luiseduardo.cerdamendoza@outlook.com</i> </center>
         </p>
