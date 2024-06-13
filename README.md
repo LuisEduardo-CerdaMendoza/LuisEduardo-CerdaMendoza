@@ -1,4 +1,4 @@
-<h1>Hola</h1>
+ <h1>Hola</h1>
           <br/>
           <h2>Soy Luis Eduardo Cerda Mendoza</h2>
           <br />
@@ -17,8 +17,10 @@
             <a href="mailto:luiseduardo.cerdamendoza@outlook.com" target="_blank" rel="noopener noreferrer">
               <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
             </a>
+            <a href="https://api.whatsapp.com/send/?phone=5561446056&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+            </a>
           </div>
-        </div>
       </div>
       |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
       -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
